@@ -17,6 +17,8 @@ manager: serdars
 
 ---
 
+https://www.recoveryfix.com/exchange-server-recovery.html
+
 # Recover Exchange servers
 
 You can recover a lost Exchange server by using the _/Mode:RecoverServer_ switch in unattended mode (from the command line) of Exchange Setup. Since most Exchange server settings are stored in Active Directory, the `Setup.exe /Mode:RecoverServer` command uses that information during the installation of Exchange on a new server with the same name.
